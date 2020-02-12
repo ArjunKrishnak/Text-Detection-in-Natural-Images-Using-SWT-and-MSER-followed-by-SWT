@@ -1,6 +1,6 @@
 # Text Detection in Natural Images
 
-Two approaches are implemented in this repository to perform text localization- SWT, and MSER detection followed by SWT.
+Two approaches are implemented in this repository to perform text localization- SWT, and MSER detection followed by SWT.Please refer to the report and ppt for more details.
 
 Steps in SWT algorithm:
 =======================
